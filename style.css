@@ -1,0 +1,93 @@
+.parent-box,.hearder,.nav,.aside,.section,.footer {
+    margin: 0;
+    padding: 0;
+}  
+
+.parent-box {
+    background: rgba(126, 124, 124, 0.973);
+    height: 790px;
+    padding-top: 20px;
+
+    
+}
+
+.header {
+    color: grey;
+    background: rgb(228, 222, 222);
+    text-align: center;
+    padding: 20px;
+    margin-right: 75px;
+    margin-left:75px;
+    
+  }
+
+.nav {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: grey;
+    background: rgb(228, 222, 222);
+    text-align: center;
+    padding: 20px;
+    margin-right: 75px;
+    margin-left:75px;
+   
+}    
+
+.section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: grey;
+    background: rgb(228, 222, 222);
+    text-align: center;
+    width:50%;
+    margin-left: 75px;
+    padding: 20px;
+    
+}  
+
+.article {
+    color: white;
+    background:rgba(126, 124, 124, 0.973);
+    text-align: center; 
+    padding: 20px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.headings {
+    color: grey;
+    background: rgb(228, 222, 222);
+    text-align: center; 
+    padding:40px;
+}
+
+.paragraph {
+    color: grey;
+    background: rgb(228, 222, 222);
+    text-align: center;
+    padding: 40px; 
+}
+
+.aside {
+    color: grey;
+    background:rgb(228, 222, 222);
+    text-align: center;
+    float: right;
+    width: 32%;
+    padding:10px;
+    height: 370px;
+    margin-right: 75px;
+    margin-bottom: 10px;
+    
+}
+
+.footer {
+    color: grey;
+    background: rgb(228, 222, 222);
+    text-align: center;
+    height: 50px;
+    margin-right: 75px;
+    margin-left: 75px;
+    padding: 20px;
+}
